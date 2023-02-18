@@ -9,6 +9,8 @@ Skills : Python, R, JavaScript, TypeScript, AngularJs, PHP, SQL, NoSQL, DSA.
   - 🔭 I’m currently working on developing my own skills
 
   - 🌱 I’m currently learning AI and Data Science
+  
+  - [Portfolio](https://aashishtangnami.vercel.app) Building and learning to integrate everything I learn in one platform.
 
   - 👯 I’m looking to collaborate on Real World Projects (Research and EDA)
 
@@ -16,7 +18,7 @@ Skills : Python, R, JavaScript, TypeScript, AngularJs, PHP, SQL, NoSQL, DSA.
 
   - 💬 Ask me about Python and DataScience
 
-  - 📫 How to reach me: Email - tangnamiaashish1423@gmail.com, [Linkedin](https://www.linkedin.com/in/aashish-tangnami-48585613b)
+  - 📫 How to reach me: Email - [Gmail](tangnamiaashish1423@gmail.com), [Linkedin](https://www.linkedin.com/in/aashish-tangnami-48585613b)
 
   - 😄 Pronouns: He/His
 
