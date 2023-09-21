@@ -1,7 +1,7 @@
 
 Hi! 👋 I am Aashish Tangnami.
 
-Software Engineer | Data Scientist | Student
+Software Engineer | Data Scientist 
 
 Skills : Python, R, JavaScript, TypeScript, AngularJs, PHP, SQL, NoSQL, DSA.
 
