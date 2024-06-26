@@ -7,8 +7,6 @@ Skills : Python, R, JavaScript, TypeScript, AngularJs, PHP, SQL, NoSQL, DSA.
 
         
   - 🔭 I’m currently working on developing my own skills
-
-  - 🌱 I’m currently learning AI and Data Science
   
   - [Portfolio](https://aashishtangnami.vercel.app) Building and learning to integrate everything I learn in one platform.
 
