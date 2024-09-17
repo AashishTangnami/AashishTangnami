@@ -3,7 +3,7 @@ Hi! 👋 I am Aashish Tangnami.
 
 Software Engineer | Data Scientist 
 
-Skills : Python, R, JavaScript, TypeScript, AngularJs, PHP, SQL, NoSQL, DSA.
+Skills : Python, R, JavaScript, TypeScript, Rust, AngularJs, PHP, SQL, NoSQL, DSA.
 
         
   - 🔭 I’m currently working on developing my own skills
