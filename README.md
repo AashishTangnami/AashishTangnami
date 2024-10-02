@@ -22,6 +22,20 @@ Skills : Python, R, JavaScript, TypeScript, Rust, AngularJs, PHP, SQL, NoSQL, DS
 
   - ⚡ Fun fact: I love sketching, Poetry, Riding Motorbikes
 
+
+Current Readings :
+Completed :
+* Master SQL for Data Analysis by Idan Gabrieli - Completed
+
+On Progress
+* Fundamentals of Data Engineering by Joe Reis, Matt Housley -Ongoing
+* Financial Data Engineering by Tamer Khraisha
+* Designing Data-Intensive Applications, 2nd Edition
+* Cracking Data Engineering Interview by Kedeeisha Bryan And Tammir Ransome
+* 50 Algorithms Every Programmer Should Know - Second edition by Imran Ahmad
+* 97 Things Every Data Engineer Should know - By Tobias Macey.
+* AWS certified Machine Learning - Specialty (MLS-C01) Certification Guide - Second Edition by Somanath Nanda and Wesleey Moura
+    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AashishTangnami&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AashishTangnami&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
