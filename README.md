@@ -23,7 +23,7 @@ Skills : Python, R, JavaScript, TypeScript, Rust, AngularJs, PHP, SQL, NoSQL, DS
   - ⚡ Fun fact: I love sketching, Poetry, Riding Motorbikes
 
 
-#### Current Readings, challenged to complete before 2025:
+#### Current Readings, challenged to complete in 2024:
 Completed :
 * Essential Math for Data Science by Thomas Nield
 * Python Data Science Handbook ESSENTIAL TOOLS FOR WORKING WITH DATA by Jake VanderPlas
