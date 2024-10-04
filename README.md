@@ -33,6 +33,9 @@ Completed :
 
 On Progress
 * Fundamentals of Data Engineering by Joe Reis, Matt Housley - Ongoing
+
+
+Pending
 * Financial Data Engineering by Tamer Khraisha
 * Designing Data-Intensive Applications, 2nd Edition
 * Cracking Data Engineering Interview by Kedeeisha Bryan And Tammir Ransome
