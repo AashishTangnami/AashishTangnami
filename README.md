@@ -11,8 +11,6 @@ Skills : Python, SQL, Postgresql, PySpark, R, JavaScript, TypeScript, Rust, Angu
 
   - 👯 I’m looking to collaborate on Real World Projects (Research and EDA)
 
-  - 🤔 I’m looking for help with Artificial Intelligence Career goals
-
   - 💬 Ask me about Python and DataScience
 
   - 📫 How to reach me: Email - [Gmail](tangnamiaashish1423@gmail.com), [Linkedin](https://www.linkedin.com/in/aashish-tangnami-48585613b)
