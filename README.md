@@ -1,48 +1,51 @@
 
-Hi! 👋 I am Aashish Tangnami.
+### Aashish Tangnami
 
-Data Engineer | Software Engineer | Data Scientist 
+**Data Engineer | Software Engineer | Data Scientist**
 
-Skills : Python, SQL, Postgresql, PySpark, R, JavaScript, TypeScript, Rust, AngularJs, NoSQL, DSA.
-        
-  - 🔭 I’m currently working on developing my own skills
-  
-  - [Portfolio](https://aashishtangnami.vercel.app) Building and learning to integrate everything I learn in one platform.
+With a solid foundation in software engineering and data science, I’m currently transitioning into the realm of **Data Engineering**, where I’m building and optimizing data pipelines, distributed systems, and scalable architectures. My passion lies in the intersection of data and technology, using my diverse skill set to drive efficient and impactful data solutions.
 
-  - 👯 I’m looking to collaborate on Real World Projects (Research and EDA)
+**Skills:** Python, SQL, PostgreSQL, PySpark, R, JavaScript, TypeScript, Rust, NoSQL, AWS/GCP/AZURE, Apache Airflow, Kafka, DataLake, Dataware House, Data Structures & Algorithms.
 
-  - 💬 Ask me about Python and DataScience
+- 🔭 **What I'm Up To**: Continuously honing my skills by building projects that integrate **data engineering, machine learning, and software development** into a cohesive [portfolio](https://aashishtangnami.vercel.app).
+- 👯 **Collaboration Goals**: Open to collaborating on **real-world projects** with a focus on **Research** and **Exploratory Data Analysis (EDA)**, where data-driven insights can solve complex challenges.
+- 💬 **Let's Talk About**: Python, Data Engineering, Data Science, and how to scale data solutions for real-world impact.
+- 📫 **How to Reach Me**: 
+  - Email: [tangnamiaashish1423@gmail.com](mailto:tangnamiaashish@gmail.com)
+  - LinkedIn: [Aashish Tangnami](https://www.linkedin.com/in/aashishtangnami/)
 
-  - 📫 How to reach me: Email - [Gmail](tangnamiaashish1423@gmail.com), [Linkedin](https://www.linkedin.com/in/aashish-tangnami-48585613b)
+- 😄 **Pronouns**: He/His  
+- ⚡ **Fun Fact**: Outside of data and code, I find joy in **sketching**, writing **poetry**, and **riding motorbikes**—balancing creativity with technical expertise.
 
-  - 😄 Pronouns: He/His
+---
 
-  - ⚡ Fun fact: I love sketching, Poetry, Riding Motorbikes
+### **Current Reading Journey** (Challenge: Complete by 2024)
 
+**Completed**:
+- *Essential Math for Data Science* by Thomas Nield
+- *Python Data Science Handbook* by Jake VanderPlas
+- *Evaluating Machine Learning Models* by Alice Zheng
+- *Master SQL for Data Analysis* by Idan Gabrieli
 
-#### Current Readings, challenged to complete in 2024:
-Completed :
-* Essential Math for Data Science by Thomas Nield
-* Python Data Science Handbook ESSENTIAL TOOLS FOR WORKING WITH DATA by Jake VanderPlas
-* Evaluating Machine Learning Models by Alice Zheng 
-* Master SQL for Data Analysis by Idan Gabrieli
-  
+**In Progress**:
+- *Fundamentals of Data Engineering* by Joe Reis and Matt Housley
 
-On Progress
-* Fundamentals of Data Engineering by Joe Reis, Matt Housley - Ongoing
+**Upcoming Reads**:
+- *Financial Data Engineering* by Tamer Khraisha
+- *Designing Data-Intensive Applications (2nd Edition)*
+- *Cracking Data Engineering Interview* by Kedeeisha Bryan & Tammir Ransome
+- *50 Algorithms Every Programmer Should Know (2nd Edition)* by Imran Ahmad
+- *97 Things Every Data Engineer Should Know* by Tobias Macey
+- *Practical Statistics for Data Scientists* by Peter Bruce & Andrew Bruce
 
+---
 
-Pending
-* Financial Data Engineering by Tamer Khraisha
-* Designing Data-Intensive Applications, 2nd Edition
-* Cracking Data Engineering Interview by Kedeeisha Bryan And Tammir Ransome
-* 50 Algorithms Every Programmer Should Know - Second edition by Imran Ahmad
-* 97 Things Every Data Engineer Should know - By Tobias Macey.
-* Practical Statistics for Data Scientist [50 Essential Concepts] by Peter Bruce and Andrew Bruce
-* AWS certified Machine Learning - Specialty (MLS-C01) Certification Guide - Second Edition by Somanath Nanda and Wesleey Moura
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AashishTangnami&show_icons=true&theme=radical)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AashishTangnami&show_icons=true&theme=radical)](https://github.com/AashishTangnami)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AashishTangnami&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AashishTangnami&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=AashishTangnami&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+This version emphasizes your personal journey, learning progress, and collaborative spirit, all while keeping the profile professional and personable.
