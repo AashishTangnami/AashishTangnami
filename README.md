@@ -3,7 +3,7 @@
 
 **Data Engineer | Software Engineer | Data Scientist**
 
-With a solid foundation in software engineering and data science, I’m currently transitioning into the realm of **Data Engineering**, where I’m building and optimizing data pipelines, distributed systems, and scalable architectures. My passion lies in the intersection of data and technology, using my diverse skill set to drive efficient and impactful data solutions.
+With a almost 3 years of experience and solid foundation in software engineering, I’m focusing on impacting my contribution in the realm of **Data Engineering**, where I’m building and optimizing data pipelines, distributed systems, and scalable architectures. My passion lies in the intersection of data and technology, using my diverse skill set to drive efficient and impactful data solutions.
 
 **Skills:** Python, SQL, PostgreSQL, PySpark, R, JavaScript, TypeScript, Rust, NoSQL, AWS/GCP/AZURE, Apache Airflow, Kafka, DataLake, Dataware House, Data Structures & Algorithms.
 
