@@ -48,4 +48,3 @@ With a solid foundation in software engineering and data science, I’m currentl
 
 ---
 
-This version emphasizes your personal journey, learning progress, and collaborative spirit, all while keeping the profile professional and personable.
