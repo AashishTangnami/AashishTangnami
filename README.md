@@ -31,8 +31,9 @@ With almost 3 years of experience and solid foundation in software engineering, 
 - *Fundamentals of Data Engineering* by Joe Reis and Matt Housley
 
 **Upcoming Reads**:
-- *Financial Data Engineering* by Tamer Khraisha
+-
 - *Designing Data-Intensive Applications (2nd Edition)*
+- *Financial Data Engineering* by Tamer Khraisha
 - *Cracking Data Engineering Interview* by Kedeeisha Bryan & Tammir Ransome
 - *50 Algorithms Every Programmer Should Know (2nd Edition)* by Imran Ahmad
 - *97 Things Every Data Engineer Should Know* by Tobias Macey
