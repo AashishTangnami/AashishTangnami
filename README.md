@@ -26,13 +26,12 @@ With almost 3 years of experience and solid foundation in software engineering, 
 - *Python Data Science Handbook* by Jake VanderPlas
 - *Evaluating Machine Learning Models* by Alice Zheng
 - *Master SQL for Data Analysis* by Idan Gabrieli
-
-**In Progress**:
 - *Fundamentals of Data Engineering* by Joe Reis and Matt Housley
 
-**Upcoming Reads**:
--
+**In Progress**:
 - *Designing Data-Intensive Applications (2nd Edition)*
+
+**Upcoming Reads**:
 - *Financial Data Engineering* by Tamer Khraisha
 - *Cracking Data Engineering Interview* by Kedeeisha Bryan & Tammir Ransome
 - *50 Algorithms Every Programmer Should Know (2nd Edition)* by Imran Ahmad
