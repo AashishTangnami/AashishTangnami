@@ -9,7 +9,7 @@ With almost 3 years of experience and solid foundation in software engineering, 
 - 👯 **Collaboration Goals**: Open to collaborating on **real-world projects** with a focus on **Research** and **Exploratory Data Analysis (EDA)**, where data-driven insights can solve complex challenges.
 - 💬 **Let's Talk About**: Python, Data Engineering, Data Science, and how to scale data solutions for real-world impact.
 - 📫 **How to Reach Me**: 
-  - Email: [tangnamiaashish1423@gmail.com](mailto:tangnamiaashish@gmail.com)
+  - Email: [tangnamiaashish@gmail.com](mailto:tangnamiaashish@gmail.com)
   - LinkedIn: [Aashish Tangnami](https://www.linkedin.com/in/aashishtangnami/)
 
 - 😄 **Pronouns**: He/His  
