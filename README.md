@@ -10,7 +10,6 @@ With almost 3 years of experience and solid foundation in software engineering, 
 - 💬 **Let's Talk About**: Python, Data Engineering, Data Science, and how to scale data solutions for real-world impact.
 - 📫 **How to Reach Me**: 
   - Email: [tangnamiaashish@gmail.com](mailto:tangnamiaashish@gmail.com)
-  - LinkedIn: [Aashish Tangnami](https://www.linkedin.com/in/aashishtangnami/)
 
 - 😄 **Pronouns**: He/His  
 - ⚡ **Fun Fact**: Outside of data and code, I find joy in **sketching**, writing **poetry**, and **riding motorbikes**—balancing creativity with technical expertise.
